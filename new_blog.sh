@@ -10,6 +10,7 @@ title: \"$title\"
 permalink: /:title/
 date:   $cur_date $cur_time $local_utc_offset
 ---
+<h1> $title </h1>
 "
     if [ ! -f "$file" ]; then
         echo "$content" >> $file
