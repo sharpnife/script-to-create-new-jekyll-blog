@@ -10,4 +10,4 @@ If you can't find your .zshrc file, ask google.
 ## Command
 Create a blog with {title}: ```new_blog [title of the blog]```
 
-Example: ```new_blog My favorite thing about cats!```
+Example: ```new_blog How to procrastinate effectively```
