@@ -1,8 +1,8 @@
-# script-to-create-new-jekyll-blog
+# Script to create new jekyll blog
 
-# Purpose
+## Purpose
 Shell script which creates a blog post with the given title
 
-# Install
+## Install
 Copy the contents from the new_blog.sh file and paste it to your local .zshrc(or .bashrc) file.
 If you can't find your .zshrc file, ask google.
